@@ -1,0 +1,504 @@
+,Order_Id,Customer_Name,Email,City,Order_Date,Total_Spend,Order_Day,Order_Month,Order_Year
+0,5275,Customer_275,user_275@provider.com,New York,2024-08-02,968.56,2,8,2024
+1,5093,Customer_93,user_93@provider.com,New York,2024-08-19,979.01,19,8,2024
+2,5006,Customer_6,user_6@provider.com,New York,2024-01-08,638.38,8,1,2024
+3,5167,Customer_167,user_167@provider.com,Chicago,2024-05-01,1139.36,1,5,2024
+4,5090,Customer_90,user_90@provider.com,New York,2024-10-09,409.03,9,10,2024
+5,5007,Customer_7,user_7@provider.com,Chicago,2024-10-28,983.02,28,10,2024
+6,5362,Customer_362,user_362@provider.com,New York,2024-02-24,413.6,24,2,2024
+7,5228,Customer_228,user_228@provider.com,New York,2024-05-11,423.25,11,5,2024
+8,5192,Customer_192,user_192@provider.com,Los Angeles,2024-12-16,119.03,16,12,2024
+9,5482,Customer_482,user_482@provider.com,Chicago,2024-03-07,1104.77,7,3,2024
+10,5218,Customer_218,user_218@provider.com,Chicago,2024-01-11,1199.52,11,1,2024
+11,5180,Customer_180,user_180@provider.com,Chicago,2024-07-27,325.21,27,7,2024
+12,5307,Customer_307,user_307@provider.com,Chicago,2024-03-14,605.44,14,3,2024
+13,5234,Customer_234,user_234@provider.com,New York,2024-09-02,527.65,2,9,2024
+15,5381,Customer_381,user_381@provider.com,New York,2024-05-01,869.86,1,5,2024
+16,5371,Customer_371,user_371@provider.com,New York,2024-10-17,706.69,17,10,2024
+17,5030,Customer_30,user_30@provider.com,Los Angeles,2024-09-03,294.4,3,9,2024
+18,5494,Customer_494,user_494@provider.com,Chicago,2024-11-24,352.21,24,11,2024
+19,5137,Customer_137,user_137@provider.com,Chicago,2024-07-20,798.19,20,7,2024
+20,5155,Customer_155,user_155@provider.com,Los Angeles,2024-07-04,1144.06,4,7,2024
+21,5084,Customer_84,user_84@provider.com,New York,2024-06-21,949.4,21,6,2024
+22,5117,Customer_117,user_117@provider.com,New York,2024-03-07,408.33,7,3,2024
+23,5172,Customer_172,user_172@provider.com,Chicago,2024-11-15,486.67,15,11,2024
+24,5323,Customer_323,user_323@provider.com,Chicago,2024-04-11,1018.9,11,4,2024
+25,5331,Customer_331,user_331@provider.com,Los Angeles,2024-01-05,638.38,5,1,2024
+26,5079,Customer_79,user_79@provider.com,Los Angeles,2024-06-18,572.11,18,6,2024
+27,5452,Customer_452,user_452@provider.com,Chicago,2024-01-15,302.31,15,1,2024
+28,5083,Customer_83,user_83@provider.com,New York,2024-08-04,34.25,4,8,2024
+29,5253,Customer_253,user_253@provider.com,New York,2024-11-01,214.83,1,11,2024
+30,5249,Customer_249,user_249@provider.com,New York,2024-10-22,163.33,22,10,2024
+31,5340,Customer_340,user_340@provider.com,Chicago,2024-01-16,1170.47,16,1,2024
+32,5333,Customer_333,user_333@provider.com,New York,2024-12-03,102.14,3,12,2024
+33,5009,Customer_9,user_9@provider.com,Chicago,2024-10-07,179.0,7,10,2024
+34,5278,Customer_278,user_278@provider.com,New York,2024-12-14,101.47,14,12,2024
+35,5068,Customer_68,user_68@provider.com,Los Angeles,2024-10-24,300.07,24,10,2024
+36,5417,Customer_417,user_417@provider.com,New York,2024-07-23,242.83,23,7,2024
+37,5203,Customer_203,user_203@provider.com,New York,2024-09-05,770.67,5,9,2024
+38,5393,Customer_393,user_393@provider.com,New York,2024-01-05,386.73,5,1,2024
+39,5305,Customer_305,user_305@provider.com,Chicago,2024-12-18,385.57,18,12,2024
+40,5299,Customer_299,user_299@provider.com,Chicago,2024-11-14,744.22,14,11,2024
+41,5347,Customer_347,user_347@provider.com,Los Angeles,2024-12-11,618.31,11,12,2024
+42,5055,Customer_55,user_55@provider.com,New York,2024-08-11,71.58,11,8,2024
+44,5345,Customer_345,user_345@provider.com,New York,2024-03-09,909.63,9,3,2024
+45,5158,Customer_158,user_158@provider.com,New York,2024-02-02,940.85,2,2,2024
+46,5222,Customer_222,user_222@provider.com,New York,2024-03-17,990.66,17,3,2024
+47,5255,Customer_255,user_255@provider.com,Los Angeles,2024-03-03,197.72,3,3,2024
+48,5153,Customer_153,user_153@provider.com,New York,2024-04-09,964.3,9,4,2024
+49,5176,Customer_176,user_176@provider.com,Chicago,2024-07-11,886.77,11,7,2024
+50,5210,Customer_210,user_210@provider.com,Chicago,2024-10-19,46.15,19,10,2024
+51,5289,Customer_289,user_289@provider.com,New York,2024-01-09,169.96,9,1,2024
+52,5076,Customer_76,user_76@provider.com,New York,2024-05-28,1186.17,28,5,2024
+53,5447,Customer_447,user_447@provider.com,Los Angeles,2024-01-12,1120.63,12,1,2024
+54,5349,Customer_349,user_349@provider.com,New York,2024-08-17,68.68,17,8,2024
+55,5148,Customer_148,user_148@provider.com,New York,2024-07-15,1176.33,15,7,2024
+56,5446,Customer_446,user_446@provider.com,Los Angeles,2024-08-15,653.21,15,8,2024
+57,5073,Customer_73,user_73@provider.com,New York,2024-12-07,95.2,7,12,2024
+58,5002,Customer_2,user_2@provider.com,Los Angeles,2024-11-21,562.09,21,11,2024
+59,5077,Customer_77,user_77@provider.com,Chicago,2024-10-26,671.67,26,10,2024
+60,5400,Customer_400,user_400@provider.com,New York,2024-02-10,886.97,10,2,2024
+61,5404,Customer_404,user_404@provider.com,Los Angeles,2024-10-02,400.18,2,10,2024
+62,5487,Customer_487,user_487@provider.com,Los Angeles,2024-12-17,1155.13,17,12,2024
+63,5297,Customer_297,user_297@provider.com,Chicago,2024-11-03,358.9,3,11,2024
+64,5063,Customer_63,user_63@provider.com,Los Angeles,2024-10-05,638.38,5,10,2024
+65,5483,Customer_483,user_483@provider.com,Los Angeles,2024-08-07,1196.65,7,8,2024
+66,5281,Customer_281,user_281@provider.com,New York,2024-05-27,588.84,27,5,2024
+67,5070,Customer_70,user_70@provider.com,Los Angeles,2024-05-04,802.28,4,5,2024
+68,5173,Customer_173,user_173@provider.com,Chicago,2024-03-19,784.73,19,3,2024
+69,5033,Customer_33,user_33@provider.com,New York,2024-04-03,48.4,3,4,2024
+70,5072,Customer_72,user_72@provider.com,Chicago,2024-11-13,1169.97,13,11,2024
+71,5078,Customer_78,user_78@provider.com,Los Angeles,2024-10-26,477.69,26,10,2024
+72,5000,Customer_0,user_0@provider.com,New York,2024-12-06,1137.35,6,12,2024
+73,5011,Customer_11,user_11@provider.com,New York,2024-07-08,638.38,8,7,2024
+74,5338,Customer_338,user_338@provider.com,Chicago,2024-11-17,821.27,17,11,2024
+75,5022,Customer_22,user_22@provider.com,Los Angeles,2024-08-06,533.4,6,8,2024
+76,5478,Customer_478,user_478@provider.com,Los Angeles,2024-12-22,1097.18,22,12,2024
+77,5490,Customer_490,user_490@provider.com,Los Angeles,2024-03-06,25.98,6,3,2024
+78,5104,Customer_104,user_104@provider.com,Chicago,2024-11-23,66.91,23,11,2024
+79,5082,Customer_82,user_82@provider.com,Los Angeles,2024-01-28,315.58,28,1,2024
+80,5185,Customer_185,user_185@provider.com,Chicago,2024-11-28,1101.03,28,11,2024
+81,5140,Customer_140,user_140@provider.com,Chicago,2024-05-28,519.95,28,5,2024
+82,5018,Customer_18,user_18@provider.com,New York,2024-11-17,919.29,17,11,2024
+83,5356,Customer_356,user_356@provider.com,Los Angeles,2024-07-14,403.64,14,7,2024
+84,5132,Customer_132,user_132@provider.com,Los Angeles,2024-07-16,728.91,16,7,2024
+85,5124,Customer_124,user_124@provider.com,Chicago,2024-03-09,1168.86,9,3,2024
+86,5101,Customer_101,user_101@provider.com,Chicago,2024-02-08,934.79,8,2,2024
+87,5039,Customer_39,user_39@provider.com,Los Angeles,2024-07-16,354.95,16,7,2024
+88,5470,Customer_470,user_470@provider.com,Los Angeles,2024-06-03,395.58,3,6,2024
+89,5046,Customer_46,user_46@provider.com,New York,2024-11-22,108.88,22,11,2024
+90,5314,Customer_314,user_314@provider.com,Los Angeles,2024-09-21,638.38,21,9,2024
+91,5448,Customer_448,user_448@provider.com,Chicago,2024-02-21,839.96,21,2,2024
+92,5365,Customer_365,user_365@provider.com,Los Angeles,2024-09-18,854.86,18,9,2024
+93,5177,Customer_177,user_177@provider.com,Chicago,2024-11-04,606.37,4,11,2024
+94,5286,Customer_286,user_286@provider.com,New York,2024-11-24,885.03,24,11,2024
+95,5346,Customer_346,user_346@provider.com,New York,2024-11-19,250.88,19,11,2024
+96,5131,Customer_131,user_131@provider.com,Los Angeles,2024-08-04,108.53,4,8,2024
+97,5433,Customer_433,user_433@provider.com,Chicago,2024-03-09,464.94,9,3,2024
+98,5456,Customer_456,user_456@provider.com,Los Angeles,2024-02-26,77.2,26,2,2024
+99,5069,Customer_69,user_69@provider.com,New York,2024-02-25,508.63,25,2,2024
+100,5357,Customer_357,user_357@provider.com,New York,2024-02-11,741.49,11,2,2024
+101,5423,Customer_423,user_423@provider.com,New York,2024-02-08,357.47,8,2,2024
+102,5334,Customer_334,user_334@provider.com,Los Angeles,2024-08-25,612.54,25,8,2024
+103,5227,Customer_227,user_227@provider.com,Chicago,2024-03-03,820.93,3,3,2024
+104,5434,Customer_434,user_434@provider.com,Los Angeles,2024-03-20,1176.49,20,3,2024
+105,5436,Customer_436,user_436@provider.com,New York,2024-11-16,1146.21,16,11,2024
+106,5208,Customer_208,user_208@provider.com,New York,2024-05-27,179.57,27,5,2024
+107,5332,Customer_332,user_332@provider.com,New York,2024-07-17,670.57,17,7,2024
+108,5220,Customer_220,user_220@provider.com,New York,2024-07-22,637.95,22,7,2024
+109,5098,Customer_98,user_98@provider.com,Los Angeles,2024-06-09,763.61,9,6,2024
+110,5324,Customer_324,user_324@provider.com,New York,2024-10-01,525.65,1,10,2024
+111,5184,Customer_184,user_184@provider.com,Los Angeles,2024-09-27,353.41,27,9,2024
+112,5497,Customer_497,user_497@provider.com,New York,2024-04-18,600.29,18,4,2024
+113,5355,Customer_355,user_355@provider.com,New York,2024-07-11,625.87,11,7,2024
+114,5320,Customer_320,user_320@provider.com,New York,2024-04-05,790.3,5,4,2024
+115,5195,Customer_195,user_195@provider.com,Chicago,2024-05-18,393.71,18,5,2024
+116,5335,Customer_335,user_335@provider.com,Los Angeles,2024-09-19,638.38,19,9,2024
+117,5492,Customer_492,user_492@provider.com,Chicago,2024-03-24,142.15,24,3,2024
+118,5450,Customer_450,user_450@provider.com,New York,2024-07-15,744.58,15,7,2024
+119,5374,Customer_374,user_374@provider.com,Los Angeles,2024-06-28,830.33,28,6,2024
+120,5086,Customer_86,user_86@provider.com,Los Angeles,2024-03-24,883.54,24,3,2024
+121,5431,Customer_431,user_431@provider.com,Chicago,2024-06-24,159.42,24,6,2024
+122,5075,Customer_75,user_75@provider.com,New York,2024-04-04,616.18,4,4,2024
+123,5457,Customer_457,user_457@provider.com,New York,2024-12-03,638.38,3,12,2024
+124,5015,Customer_15,user_15@provider.com,New York,2024-09-15,1017.38,15,9,2024
+125,5421,Customer_421,user_421@provider.com,New York,2024-08-27,1167.9,27,8,2024
+126,5182,Customer_182,user_182@provider.com,Los Angeles,2024-06-09,543.83,9,6,2024
+127,5473,Customer_473,user_473@provider.com,Los Angeles,2024-11-13,121.01,13,11,2024
+128,5019,Customer_19,user_19@provider.com,Chicago,2024-10-11,338.26,11,10,2024
+129,5397,Customer_397,user_397@provider.com,Chicago,2024-10-15,933.34,15,10,2024
+130,5056,Customer_56,user_56@provider.com,New York,2024-07-09,512.49,9,7,2024
+131,5239,Customer_239,user_239@provider.com,New York,2024-12-28,210.12,28,12,2024
+132,5342,Customer_342,user_342@provider.com,New York,2024-08-23,956.95,23,8,2024
+133,5440,Customer_440,user_440@provider.com,Los Angeles,2024-06-28,861.26,28,6,2024
+135,5025,Customer_25,user_25@provider.com,Chicago,2035-01-01,549.59,1,1,2024
+136,5261,Customer_261,user_261@provider.com,New York,2024-10-12,992.9,12,10,2024
+137,5042,Customer_42,user_42@provider.com,Los Angeles,2024-12-18,179.47,18,12,2024
+138,5331,Customer_331,user_331@provider.com,Los Angeles,2024-01-05,245.67,5,1,2024
+139,5271,Customer_271,user_271@provider.com,New York,2024-12-25,758.19,25,12,2024
+140,5209,Customer_209,user_209@provider.com,Los Angeles,2024-05-24,951.59,24,5,2024
+141,5287,Customer_287,user_287@provider.com,New York,2024-07-28,1035.02,28,7,2024
+142,5126,Customer_126,user_126@provider.com,Los Angeles,2024-12-05,604.57,5,12,2024
+143,5414,Customer_414,user_414@provider.com,New York,2024-01-14,777.32,14,1,2024
+144,5031,Customer_31,user_31@provider.com,Los Angeles,2024-03-08,1193.51,8,3,2024
+145,5113,Customer_113,user_113@provider.com,New York,2024-05-10,241.46,10,5,2024
+146,5360,Customer_360,user_360@provider.com,Chicago,2024-08-03,891.09,3,8,2024
+147,5290,Customer_290,user_290@provider.com,New York,2024-02-15,454.09,15,2,2024
+148,5154,Customer_154,user_154@provider.com,Chicago,2024-10-22,820.1,22,10,2024
+149,5057,Customer_57,user_57@provider.com,New York,2024-05-27,955.77,27,5,2024
+150,5211,Customer_211,user_211@provider.com,New York,2024-08-28,671.52,28,8,2024
+151,5024,Customer_24,user_24@provider.com,Chicago,2024-04-27,278.12,27,4,2024
+152,5017,Customer_17,user_17@provider.com,Chicago,2024-08-05,352.8,5,8,2024
+153,5245,Customer_245,user_245@provider.com,New York,2024-09-14,1017.43,14,9,2024
+154,5066,Customer_66,user_66@provider.com,New York,2024-08-23,523.65,23,8,2024
+155,5229,Customer_229,user_229@provider.com,New York,2024-12-13,1055.38,13,12,2024
+156,5225,Customer_225,user_225@provider.com,Los Angeles,2024-08-01,776.17,1,8,2024
+157,5094,Customer_94,user_94@provider.com,Chicago,2024-11-13,222.48,13,11,2024
+158,5462,Customer_462,user_462@provider.com,Los Angeles,2024-06-10,667.17,10,6,2024
+159,5284,Customer_284,user_284@provider.com,Chicago,2024-02-15,385.41,15,2,2024
+160,5023,Customer_23,user_23@provider.com,New York,2024-08-15,1136.5,15,8,2024
+161,5244,Customer_244,user_244@provider.com,New York,2024-07-05,1075.49,5,7,2024
+162,5422,Customer_422,user_422@provider.com,New York,2024-06-03,367.67,3,6,2024
+163,5375,Customer_375,user_375@provider.com,Chicago,2024-06-04,46.58,4,6,2024
+164,5005,Customer_5,user_5@provider.com,New York,2024-04-05,640.04,5,4,2024
+165,5116,Customer_116,user_116@provider.com,New York,2024-12-18,1040.97,18,12,2024
+166,5045,Customer_45,user_45@provider.com,Chicago,2024-01-13,21.22,13,1,2024
+167,5407,Customer_407,user_407@provider.com,Los Angeles,2024-05-11,386.8,11,5,2024
+168,5016,Customer_16,user_16@provider.com,Chicago,2024-09-08,1023.63,8,9,2024
+169,5484,Customer_484,user_484@provider.com,Los Angeles,2024-03-05,485.44,5,3,2024
+170,5370,Customer_370,user_370@provider.com,Los Angeles,2024-05-12,1176.18,12,5,2024
+171,5003,Customer_3,user_3@provider.com,New York,2024-06-03,348.9,3,6,2024
+172,5274,Customer_274,user_274@provider.com,New York,2024-11-02,587.29,2,11,2024
+173,5426,Customer_426,user_426@provider.com,Los Angeles,2024-12-11,390.69,11,12,2024
+174,5060,Customer_60,user_60@provider.com,New York,2024-04-21,1087.6,21,4,2024
+175,5110,Customer_110,user_110@provider.com,New York,2024-09-12,658.49,12,9,2024
+176,5329,Customer_329,user_329@provider.com,Los Angeles,2024-04-19,489.69,19,4,2024
+177,5272,Customer_272,user_272@provider.com,New York,2024-11-27,358.26,27,11,2024
+178,5029,Customer_29,user_29@provider.com,Los Angeles,2024-05-11,609.88,11,5,2024
+179,5280,Customer_280,user_280@provider.com,New York,2024-06-17,535.93,17,6,2024
+180,5411,Customer_411,user_411@provider.com,New York,2024-04-17,434.83,17,4,2024
+181,5026,Customer_26,user_26@provider.com,Los Angeles,2024-08-21,429.26,21,8,2024
+183,5181,Customer_181,user_181@provider.com,New York,2024-01-15,323.44,15,1,2024
+184,5472,Customer_472,user_472@provider.com,Los Angeles,2024-05-21,1090.91,21,5,2024
+185,5108,Customer_108,user_108@provider.com,Los Angeles,2024-05-22,625.73,22,5,2024
+186,5037,Customer_37,user_37@provider.com,Los Angeles,2024-07-25,952.79,25,7,2024
+187,5157,Customer_157,user_157@provider.com,New York,2024-05-27,734.97,27,5,2024
+188,5488,Customer_488,user_488@provider.com,Los Angeles,2024-11-11,638.38,11,11,2024
+189,5118,Customer_118,user_118@provider.com,Los Angeles,2024-12-16,162.5,16,12,2024
+190,5114,Customer_114,user_114@provider.com,New York,2024-04-04,438.01,4,4,2024
+191,5425,Customer_425,user_425@provider.com,Los Angeles,2024-02-13,850.41,13,2,2024
+192,5175,Customer_175,user_175@provider.com,Los Angeles,2024-02-16,149.44,16,2,2024
+193,5204,Customer_204,user_204@provider.com,New York,2024-04-20,955.53,20,4,2024
+194,5369,Customer_369,user_369@provider.com,New York,2024-01-10,813.46,10,1,2024
+195,5144,Customer_144,user_144@provider.com,Los Angeles,2024-11-07,1045.99,7,11,2024
+196,5194,Customer_194,user_194@provider.com,Chicago,2024-04-23,1016.94,23,4,2024
+197,5383,Customer_383,user_383@provider.com,Chicago,2024-06-12,217.06,12,6,2024
+198,5395,Customer_395,user_395@provider.com,New York,2024-02-09,833.24,9,2,2024
+199,5376,Customer_376,user_376@provider.com,New York,2024-10-08,577.39,8,10,2024
+200,5486,Customer_486,user_486@provider.com,New York,2024-09-25,1124.88,25,9,2024
+201,5238,Customer_238,user_238@provider.com,Chicago,2024-02-25,196.32,25,2,2024
+202,5464,Customer_464,user_464@provider.com,Los Angeles,2024-11-20,497.19,20,11,2024
+203,5141,Customer_141,user_141@provider.com,New York,2024-07-10,832.37,10,7,2024
+204,5406,Customer_406,user_406@provider.com,New York,2024-03-25,637.69,25,3,2024
+205,5067,Customer_67,user_67@provider.com,Los Angeles,2024-06-06,743.55,6,6,2024
+206,5231,Customer_231,user_231@provider.com,Los Angeles,2024-11-28,773.16,28,11,2024
+207,5168,Customer_168,user_168@provider.com,New York,2024-04-22,455.84,22,4,2024
+208,5188,Customer_188,user_188@provider.com,New York,2024-10-25,1025.6,25,10,2024
+209,5237,Customer_237,user_237@provider.com,Chicago,2024-12-03,162.13,3,12,2024
+210,5390,Customer_390,user_390@provider.com,Los Angeles,2024-06-06,1138.62,6,6,2024
+211,5311,Customer_311,user_311@provider.com,Los Angeles,2024-04-15,42.46,15,4,2024
+212,5193,Customer_193,user_193@provider.com,New York,2024-01-21,823.09,21,1,2024
+213,5081,Customer_81,user_81@provider.com,New York,2024-09-21,1177.53,21,9,2024
+214,5109,Customer_109,user_109@provider.com,New York,2024-06-16,1187.11,16,6,2024
+215,5262,Customer_262,user_262@provider.com,Los Angeles,2024-05-23,48.62,23,5,2024
+216,5145,Customer_145,user_145@provider.com,Chicago,2024-11-03,432.78,3,11,2024
+217,5092,Customer_92,user_92@provider.com,Los Angeles,2024-05-15,662.03,15,5,2024
+218,5152,Customer_152,user_152@provider.com,Chicago,2024-08-03,445.52,3,8,2024
+219,5352,Customer_352,user_352@provider.com,Los Angeles,2024-11-25,576.39,25,11,2024
+220,5410,Customer_410,user_410@provider.com,Los Angeles,2024-07-18,638.38,18,7,2024
+221,5277,Customer_277,user_277@provider.com,Chicago,2024-02-10,367.46,10,2,2024
+223,5103,Customer_103,user_103@provider.com,Los Angeles,2024-04-23,362.73,23,4,2024
+224,5165,Customer_165,user_165@provider.com,New York,2024-10-02,732.04,2,10,2024
+225,5163,Customer_163,user_163@provider.com,New York,2024-05-17,638.38,17,5,2024
+226,5199,Customer_199,user_199@provider.com,New York,2024-03-16,1071.23,16,3,2024
+227,5250,Customer_250,user_250@provider.com,Chicago,2024-08-19,373.85,19,8,2024
+228,5074,Customer_74,user_74@provider.com,Chicago,2024-10-23,638.38,23,10,2024
+229,5468,Customer_468,user_468@provider.com,Los Angeles,2024-05-09,251.36,9,5,2024
+231,5498,Customer_498,user_498@provider.com,Chicago,2024-05-26,1127.19,26,5,2024
+232,5119,Customer_119,user_119@provider.com,Chicago,2024-12-19,451.1,19,12,2024
+233,5291,Customer_291,user_291@provider.com,New York,2024-11-24,680.56,24,11,2024
+234,5432,Customer_432,user_432@provider.com,Los Angeles,2024-03-08,816.8,8,3,2024
+235,5455,Customer_455,user_455@provider.com,New York,2024-03-02,770.96,2,3,2024
+236,5367,Customer_367,user_367@provider.com,New York,2024-06-28,981.66,28,6,2024
+237,5416,Customer_416,user_416@provider.com,New York,2024-10-14,737.94,14,10,2024
+238,5247,Customer_247,user_247@provider.com,Chicago,2024-03-06,767.54,6,3,2024
+239,5265,Customer_265,user_265@provider.com,Los Angeles,2024-10-28,698.47,28,10,2024
+240,5268,Customer_268,user_268@provider.com,Los Angeles,2024-04-20,508.66,20,4,2024
+241,5312,Customer_312,user_312@provider.com,New York,2024-04-28,1135.1,28,4,2024
+242,5398,Customer_398,user_398@provider.com,Los Angeles,2024-05-07,1105.82,7,5,2024
+244,5036,Customer_36,user_36@provider.com,New York,2024-04-27,785.2,27,4,2024
+245,5196,Customer_196,user_196@provider.com,New York,2024-09-14,426.7,14,9,2024
+246,5139,Customer_139,user_139@provider.com,Los Angeles,2024-07-15,729.11,15,7,2024
+247,5388,Customer_388,user_388@provider.com,New York,2024-12-17,821.66,17,12,2024
+248,5438,Customer_438,user_438@provider.com,New York,2024-08-22,359.19,22,8,2024
+249,5301,Customer_301,user_301@provider.com,New York,2024-05-16,1040.39,16,5,2024
+250,5418,Customer_418,user_418@provider.com,Chicago,2024-07-10,307.13,10,7,2024
+251,5059,Customer_59,user_59@provider.com,New York,2024-09-02,146.37,2,9,2024
+252,5469,Customer_469,user_469@provider.com,Chicago,2024-11-20,1157.24,20,11,2024
+253,5248,Customer_248,user_248@provider.com,New York,2024-10-28,667.75,28,10,2024
+254,5111,Customer_111,user_111@provider.com,Chicago,2024-12-18,315.18,18,12,2024
+255,5089,Customer_89,user_89@provider.com,New York,2024-08-14,886.2,14,8,2024
+256,5461,Customer_461,user_461@provider.com,Los Angeles,2024-10-06,21.14,6,10,2024
+257,5266,Customer_266,user_266@provider.com,Chicago,2024-12-02,786.59,2,12,2024
+259,5150,Customer_150,user_150@provider.com,New York,2024-01-08,103.92,8,1,2024
+260,5396,Customer_396,user_396@provider.com,Los Angeles,2024-11-14,501.3,14,11,2024
+261,5038,Customer_38,user_38@provider.com,New York,2024-12-01,178.06,1,12,2024
+262,5325,Customer_325,user_325@provider.com,New York,2024-03-05,1060.71,5,3,2024
+263,5198,Customer_198,user_198@provider.com,New York,2024-08-04,657.47,4,8,2024
+264,5302,Customer_302,user_302@provider.com,Chicago,2024-02-08,204.24,8,2,2024
+265,5146,Customer_146,user_146@provider.com,Chicago,2024-04-06,1197.81,6,4,2024
+266,5408,Customer_408,user_408@provider.com,Los Angeles,2024-01-16,220.22,16,1,2024
+267,5147,Customer_147,user_147@provider.com,New York,2024-02-06,340.35,6,2,2024
+268,5317,Customer_317,user_317@provider.com,Chicago,2024-02-22,74.89,22,2,2024
+269,5296,Customer_296,user_296@provider.com,New York,2024-06-20,129.72,20,6,2024
+270,5123,Customer_123,user_123@provider.com,Chicago,2024-01-23,473.17,23,1,2024
+271,5382,Customer_382,user_382@provider.com,Los Angeles,2024-05-23,706.48,23,5,2024
+272,5096,Customer_96,user_96@provider.com,Chicago,2024-03-16,565.58,16,3,2024
+273,5143,Customer_143,user_143@provider.com,New York,2024-12-04,638.38,4,12,2024
+274,5239,Customer_239,user_239@provider.com,New York,2024-12-28,210.12,28,12,2024
+275,5321,Customer_321,user_321@provider.com,Chicago,2024-04-03,572.65,3,4,2024
+276,5097,Customer_97,user_97@provider.com,New York,2024-06-26,638.38,26,6,2024
+277,5471,Customer_471,user_471@provider.com,Los Angeles,2024-11-05,780.39,5,11,2024
+278,5122,Customer_122,user_122@provider.com,Los Angeles,2024-06-06,1075.15,6,6,2024
+279,5183,Customer_183,user_183@provider.com,Los Angeles,2024-02-25,1195.69,25,2,2024
+280,5202,Customer_202,user_202@provider.com,New York,2024-08-08,1113.88,8,8,2024
+281,5246,Customer_246,user_246@provider.com,Chicago,2024-11-26,311.97,26,11,2024
+282,5316,Customer_316,user_316@provider.com,Los Angeles,2024-04-04,433.18,4,4,2024
+284,5364,Customer_364,user_364@provider.com,Los Angeles,2024-09-02,645.82,2,9,2024
+285,5310,Customer_310,user_310@provider.com,New York,2024-01-23,380.62,23,1,2024
+286,5412,Customer_412,user_412@provider.com,New York,2024-11-26,929.81,26,11,2024
+287,5496,Customer_496,user_496@provider.com,Chicago,2024-12-26,658.81,26,12,2024
+288,5125,Customer_125,user_125@provider.com,Chicago,2024-01-18,603.0,18,1,2024
+289,5489,Customer_489,user_489@provider.com,New York,2024-03-20,1053.94,20,3,2024
+290,5223,Customer_223,user_223@provider.com,Los Angeles,2024-06-28,102.39,28,6,2024
+292,5219,Customer_219,user_219@provider.com,Los Angeles,2024-08-23,866.86,23,8,2024
+293,5129,Customer_129,user_129@provider.com,New York,2024-08-15,964.36,15,8,2024
+294,5437,Customer_437,user_437@provider.com,Los Angeles,2024-10-25,638.38,25,10,2024
+295,5298,Customer_298,user_298@provider.com,New York,2024-08-23,470.22,23,8,2024
+296,5451,Customer_451,user_451@provider.com,Los Angeles,2024-09-26,710.39,26,9,2024
+297,5392,Customer_392,user_392@provider.com,Los Angeles,2024-10-20,638.38,20,10,2024
+298,5402,Customer_402,user_402@provider.com,New York,2024-09-22,178.63,22,9,2024
+299,5368,Customer_368,user_368@provider.com,Los Angeles,2024-07-28,638.38,28,7,2024
+300,5304,Customer_304,user_304@provider.com,Los Angeles,2024-06-22,699.56,22,6,2024
+301,5294,Customer_294,user_294@provider.com,New York,2024-11-08,331.95,8,11,2024
+302,5380,Customer_380,user_380@provider.com,Chicago,2024-11-27,699.5,27,11,2024
+303,5354,Customer_354,user_354@provider.com,Chicago,2024-07-15,733.42,15,7,2024
+304,5112,Customer_112,user_112@provider.com,Chicago,2024-06-23,907.65,23,6,2024
+305,5179,Customer_179,user_179@provider.com,New York,2024-08-10,638.38,10,8,2024
+306,5318,Customer_318,user_318@provider.com,Los Angeles,2024-11-21,638.38,21,11,2024
+307,5424,Customer_424,user_424@provider.com,New York,2024-10-13,260.62,13,10,2024
+308,5341,Customer_341,user_341@provider.com,Chicago,2024-07-22,481.78,22,7,2024
+310,5373,Customer_373,user_373@provider.com,Chicago,2024-04-28,874.51,28,4,2024
+311,5233,Customer_233,user_233@provider.com,New York,2024-12-25,1160.02,25,12,2024
+312,5095,Customer_95,user_95@provider.com,Los Angeles,2024-01-16,938.28,16,1,2024
+313,5322,Customer_322,user_322@provider.com,Chicago,2024-04-19,650.98,19,4,2024
+314,5164,Customer_164,user_164@provider.com,Chicago,2024-08-15,687.18,15,8,2024
+315,5136,Customer_136,user_136@provider.com,New York,2024-04-04,109.88,4,4,2024
+316,5197,Customer_197,user_197@provider.com,Chicago,2024-04-27,638.38,27,4,2024
+317,5258,Customer_258,user_258@provider.com,New York,2024-05-15,732.09,15,5,2024
+318,5232,Customer_232,user_232@provider.com,Los Angeles,2024-07-11,230.63,11,7,2024
+319,5115,Customer_115,user_115@provider.com,New York,2024-04-11,940.3,11,4,2024
+320,5120,Customer_120,user_120@provider.com,New York,2024-10-10,1069.04,10,10,2024
+321,5361,Customer_361,user_361@provider.com,Los Angeles,2024-02-03,369.59,3,2,2024
+322,5224,Customer_224,user_224@provider.com,Los Angeles,2024-08-04,1167.27,4,8,2024
+323,5441,Customer_441,user_441@provider.com,New York,2024-06-05,425.44,5,6,2024
+324,5348,Customer_348,user_348@provider.com,New York,2024-10-17,607.59,17,10,2024
+325,5127,Customer_127,user_127@provider.com,Chicago,2024-08-04,1110.31,4,8,2024
+326,5285,Customer_285,user_285@provider.com,Chicago,2024-03-25,866.26,25,3,2024
+327,5428,Customer_428,user_428@provider.com,New York,2024-02-17,1121.43,17,2,2024
+328,5107,Customer_107,user_107@provider.com,Los Angeles,2024-07-23,1121.04,23,7,2024
+329,5384,Customer_384,user_384@provider.com,Chicago,2024-03-28,760.39,28,3,2024
+330,5336,Customer_336,user_336@provider.com,New York,2024-08-17,346.47,17,8,2024
+331,5133,Customer_133,user_133@provider.com,New York,2024-10-21,989.47,21,10,2024
+332,5377,Customer_377,user_377@provider.com,New York,2024-09-25,1160.98,25,9,2024
+333,5044,Customer_44,user_44@provider.com,Chicago,2024-05-14,546.59,14,5,2024
+334,5481,Customer_481,user_481@provider.com,Chicago,2024-01-12,223.31,12,1,2024
+335,5065,Customer_65,user_65@provider.com,Los Angeles,2024-02-19,185.14,19,2,2024
+336,5283,Customer_283,user_283@provider.com,Chicago,2024-05-24,733.89,24,5,2024
+337,5085,Customer_85,user_85@provider.com,New York,2024-12-05,423.59,5,12,2024
+338,5242,Customer_242,user_242@provider.com,Los Angeles,2024-06-26,425.04,26,6,2024
+339,5186,Customer_186,user_186@provider.com,Chicago,2024-08-14,597.07,14,8,2024
+340,5399,Customer_399,user_399@provider.com,Chicago,2024-02-12,1049.29,12,2,2024
+341,5159,Customer_159,user_159@provider.com,Los Angeles,2024-05-20,56.24,20,5,2024
+342,5012,Customer_12,user_12@provider.com,New York,2024-11-23,1050.83,23,11,2024
+343,5035,Customer_35,user_35@provider.com,New York,2024-08-14,1009.42,14,8,2024
+344,5028,Customer_28,user_28@provider.com,New York,2024-12-10,78.11,10,12,2024
+345,5170,Customer_170,user_170@provider.com,New York,2024-05-19,695.1,19,5,2024
+346,5142,Customer_142,user_142@provider.com,Chicago,2024-10-02,431.58,2,10,2024
+347,5415,Customer_415,user_415@provider.com,Chicago,2024-08-03,638.38,3,8,2024
+348,5353,Customer_353,user_353@provider.com,Los Angeles,2024-12-28,556.53,28,12,2024
+349,5221,Customer_221,user_221@provider.com,New York,2024-03-16,926.46,16,3,2024
+351,5051,Customer_51,user_51@provider.com,Chicago,2024-02-21,640.41,21,2,2024
+352,5240,Customer_240,user_240@provider.com,Los Angeles,2024-08-06,397.35,6,8,2024
+353,5386,Customer_386,user_386@provider.com,Los Angeles,2024-02-05,1011.78,5,2,2024
+354,5351,Customer_351,user_351@provider.com,New York,2024-02-28,409.65,28,2,2024
+355,5394,Customer_394,user_394@provider.com,New York,2024-10-02,194.45,2,10,2024
+356,5178,Customer_178,user_178@provider.com,Los Angeles,2024-06-14,473.58,14,6,2024
+357,5041,Customer_41,user_41@provider.com,Chicago,2024-07-18,839.85,18,7,2024
+358,5454,Customer_454,user_454@provider.com,Los Angeles,2024-10-16,644.28,16,10,2024
+359,5403,Customer_403,user_403@provider.com,New York,2024-01-08,260.7,8,1,2024
+360,5206,Customer_206,user_206@provider.com,New York,2024-05-25,158.81,25,5,2024
+361,5282,Customer_282,user_282@provider.com,Chicago,2024-05-27,256.77,27,5,2024
+362,5358,Customer_358,user_358@provider.com,Los Angeles,2024-06-22,207.56,22,6,2024
+363,5254,Customer_254,user_254@provider.com,New York,2024-05-22,638.38,22,5,2024
+364,5429,Customer_429,user_429@provider.com,Los Angeles,2024-02-17,957.56,17,2,2024
+365,5004,Customer_4,user_4@provider.com,New York,2024-11-10,467.52,10,11,2024
+366,5256,Customer_256,user_256@provider.com,Chicago,2024-06-19,795.6,19,6,2024
+367,5467,Customer_467,user_467@provider.com,New York,2024-09-22,580.78,22,9,2024
+368,5100,Customer_100,user_100@provider.com,New York,2024-01-17,89.77,17,1,2024
+369,5226,Customer_226,user_226@provider.com,Los Angeles,2024-03-14,548.22,14,3,2024
+370,5444,Customer_444,user_444@provider.com,Los Angeles,2024-10-02,582.71,2,10,2024
+371,5213,Customer_213,user_213@provider.com,New York,2024-06-11,967.34,11,6,2024
+372,5439,Customer_439,user_439@provider.com,Chicago,2024-11-21,355.84,21,11,2024
+373,5171,Customer_171,user_171@provider.com,New York,2024-03-16,642.41,16,3,2024
+375,5292,Customer_292,user_292@provider.com,Chicago,2024-05-19,393.15,19,5,2024
+376,5215,Customer_215,user_215@provider.com,Chicago,2024-06-28,740.16,28,6,2024
+377,5061,Customer_61,user_61@provider.com,New York,2024-11-02,722.14,2,11,2024
+378,5047,Customer_47,user_47@provider.com,Los Angeles,2024-12-06,318.27,6,12,2024
+379,5032,Customer_32,user_32@provider.com,New York,2024-12-05,459.27,5,12,2024
+380,5267,Customer_267,user_267@provider.com,Los Angeles,2024-12-16,638.38,16,12,2024
+381,5327,Customer_327,user_327@provider.com,New York,2024-02-22,920.17,22,2,2024
+382,5200,Customer_200,user_200@provider.com,New York,2024-05-17,1023.86,17,5,2024
+383,5465,Customer_465,user_465@provider.com,Chicago,2024-11-21,1123.01,21,11,2024
+384,5027,Customer_27,user_27@provider.com,New York,2024-05-15,46.6,15,5,2024
+385,5405,Customer_405,user_405@provider.com,New York,2024-04-10,799.74,10,4,2024
+386,5230,Customer_230,user_230@provider.com,New York,2024-02-28,939.61,28,2,2024
+387,5260,Customer_260,user_260@provider.com,New York,2024-02-08,682.89,8,2,2024
+388,5378,Customer_378,user_378@provider.com,New York,2024-10-22,942.74,22,10,2024
+389,5288,Customer_288,user_288@provider.com,Chicago,2024-06-03,1170.82,3,6,2024
+390,5162,Customer_162,user_162@provider.com,New York,2024-05-23,449.1,23,5,2024
+391,5391,Customer_391,user_391@provider.com,New York,2024-05-24,145.23,24,5,2024
+392,5442,Customer_442,user_442@provider.com,New York,2024-02-16,539.22,16,2,2024
+393,5138,Customer_138,user_138@provider.com,New York,2024-10-08,378.2,8,10,2024
+394,5062,Customer_62,user_62@provider.com,Los Angeles,2024-04-07,34.48,7,4,2024
+395,5135,Customer_135,user_135@provider.com,Los Angeles,2024-10-10,395.64,10,10,2024
+396,5128,Customer_128,user_128@provider.com,New York,2024-10-10,630.34,10,10,2024
+397,5499,Customer_499,user_499@provider.com,Chicago,2024-04-12,1023.51,12,4,2024
+398,5008,Customer_8,user_8@provider.com,New York,2024-08-14,964.49,14,8,2024
+399,5326,Customer_326,user_326@provider.com,Chicago,2024-05-26,877.1,26,5,2024
+400,5485,Customer_485,user_485@provider.com,Chicago,2024-05-28,602.03,28,5,2024
+401,5064,Customer_64,user_64@provider.com,Chicago,2024-03-16,301.7,16,3,2024
+402,5300,Customer_300,user_300@provider.com,Chicago,2024-03-02,309.2,2,3,2024
+403,5014,Customer_14,user_14@provider.com,New York,2024-04-06,136.57,6,4,2024
+404,5156,Customer_156,user_156@provider.com,Chicago,2024-04-21,184.19,21,4,2024
+405,5040,Customer_40,user_40@provider.com,Los Angeles,2024-06-10,998.27,10,6,2024
+406,5379,Customer_379,user_379@provider.com,New York,2024-09-01,934.75,1,9,2024
+407,5479,Customer_479,user_479@provider.com,Los Angeles,2024-02-21,222.45,21,2,2024
+408,5420,Customer_420,user_420@provider.com,Los Angeles,2024-03-26,281.47,26,3,2024
+409,5216,Customer_216,user_216@provider.com,Chicago,2024-12-08,117.17,8,12,2024
+410,5409,Customer_409,user_409@provider.com,New York,2024-07-06,1095.87,6,7,2024
+411,5279,Customer_279,user_279@provider.com,Los Angeles,2024-04-05,86.0,5,4,2024
+412,5453,Customer_453,user_453@provider.com,New York,2024-11-07,808.75,7,11,2024
+413,5449,Customer_449,user_449@provider.com,Chicago,2024-10-20,177.67,20,10,2024
+414,5337,Customer_337,user_337@provider.com,Chicago,2024-10-02,638.38,2,10,2024
+415,5236,Customer_236,user_236@provider.com,New York,2024-11-10,80.66,10,11,2024
+416,5207,Customer_207,user_207@provider.com,Chicago,2024-06-26,253.16,26,6,2024
+417,5212,Customer_212,user_212@provider.com,Chicago,2024-08-18,452.16,18,8,2024
+418,5295,Customer_295,user_295@provider.com,Los Angeles,2024-01-20,308.78,20,1,2024
+419,5476,Customer_476,user_476@provider.com,New York,2024-11-26,638.38,26,11,2024
+420,5251,Customer_251,user_251@provider.com,New York,2024-04-15,647.17,15,4,2024
+422,5477,Customer_477,user_477@provider.com,New York,2024-03-22,1124.95,22,3,2024
+423,5303,Customer_303,user_303@provider.com,New York,2024-03-13,403.01,13,3,2024
+424,5350,Customer_350,user_350@provider.com,Chicago,2024-07-04,177.39,4,7,2024
+425,5269,Customer_269,user_269@provider.com,Chicago,2024-04-21,772.2,21,4,2024
+426,5201,Customer_201,user_201@provider.com,New York,2024-05-14,858.49,14,5,2024
+427,5161,Customer_161,user_161@provider.com,New York,2024-02-15,937.54,15,2,2024
+428,5043,Customer_43,user_43@provider.com,New York,2024-04-16,851.06,16,4,2024
+429,5217,Customer_217,user_217@provider.com,New York,2024-07-08,381.51,8,7,2024
+430,5401,Customer_401,user_401@provider.com,New York,2024-11-19,88.8,19,11,2024
+431,5190,Customer_190,user_190@provider.com,New York,2024-04-09,1079.93,9,4,2024
+432,5309,Customer_309,user_309@provider.com,Los Angeles,2024-10-14,638.38,14,10,2024
+433,5259,Customer_259,user_259@provider.com,Los Angeles,2024-04-13,1013.4,13,4,2024
+434,5105,Customer_105,user_105@provider.com,Los Angeles,2024-08-26,251.37,26,8,2024
+435,5053,Customer_53,user_53@provider.com,Chicago,2024-03-02,356.4,2,3,2024
+436,5389,Customer_389,user_389@provider.com,Los Angeles,2024-07-14,52.41,14,7,2024
+437,5001,Customer_1,user_1@provider.com,New York,2024-02-10,1181.56,10,2,2024
+438,5460,Customer_460,user_460@provider.com,New York,2024-08-17,928.36,17,8,2024
+439,5169,Customer_169,user_169@provider.com,Chicago,2024-10-01,919.26,1,10,2024
+440,5049,Customer_49,user_49@provider.com,Chicago,2024-01-13,665.33,13,1,2024
+441,5419,Customer_419,user_419@provider.com,Los Angeles,2024-07-01,676.33,1,7,2024
+442,5080,Customer_80,user_80@provider.com,Chicago,2024-11-12,768.27,12,11,2024
+443,5205,Customer_205,user_205@provider.com,Los Angeles,2024-12-05,617.88,5,12,2024
+444,5034,Customer_34,user_34@provider.com,Los Angeles,2024-07-11,1118.03,11,7,2024
+445,5430,Customer_430,user_430@provider.com,Los Angeles,2024-04-25,339.05,25,4,2024
+446,5263,Customer_263,user_263@provider.com,New York,2024-01-27,68.87,27,1,2024
+447,5427,Customer_427,user_427@provider.com,Los Angeles,2024-06-25,428.33,25,6,2024
+448,5493,Customer_493,user_493@provider.com,Los Angeles,2024-01-14,1179.85,14,1,2024
+449,5366,Customer_366,user_366@provider.com,New York,2024-11-04,370.25,4,11,2024
+450,5091,Customer_91,user_91@provider.com,Chicago,2024-04-27,67.54,27,4,2024
+451,5339,Customer_339,user_339@provider.com,Los Angeles,2024-08-21,155.79,21,8,2024
+452,5495,Customer_495,user_495@provider.com,Chicago,2024-08-20,1187.08,20,8,2024
+453,5052,Customer_52,user_52@provider.com,Los Angeles,2024-03-28,146.76,28,3,2024
+455,5264,Customer_264,user_264@provider.com,Los Angeles,2024-07-09,775.12,9,7,2024
+456,5241,Customer_241,user_241@provider.com,New York,2024-05-01,638.38,1,5,2024
+457,5013,Customer_13,user_13@provider.com,New York,2024-02-25,672.13,25,2,2024
+458,5315,Customer_315,user_315@provider.com,New York,2024-01-13,269.95,13,1,2024
+459,5088,Customer_88,user_88@provider.com,Los Angeles,2024-09-25,638.38,25,9,2024
+460,5387,Customer_387,user_387@provider.com,New York,2024-11-01,190.11,1,11,2024
+461,5273,Customer_273,user_273@provider.com,Los Angeles,2024-11-04,638.38,4,11,2024
+462,5166,Customer_166,user_166@provider.com,New York,2024-12-11,819.69,11,12,2024
+463,5328,Customer_328,user_328@provider.com,Chicago,2024-03-01,448.64,1,3,2024
+464,5377,Customer_377,user_377@provider.com,New York,2024-09-25,638.38,25,9,2024
+465,5134,Customer_134,user_134@provider.com,Los Angeles,2024-01-05,661.39,5,1,2024
+466,5306,Customer_306,user_306@provider.com,Chicago,2024-10-24,919.3,24,10,2024
+468,5319,Customer_319,user_319@provider.com,New York,2024-01-02,1060.57,2,1,2024
+469,5243,Customer_243,user_243@provider.com,Chicago,2024-05-12,1129.97,12,5,2024
+470,5054,Customer_54,user_54@provider.com,New York,2024-07-11,371.86,11,7,2024
+471,5363,Customer_363,user_363@provider.com,New York,2024-06-26,996.52,26,6,2024
+472,5050,Customer_50,user_50@provider.com,Los Angeles,2024-10-22,876.77,22,10,2024
+473,5480,Customer_480,user_480@provider.com,New York,2024-07-17,1060.46,17,7,2024
+474,5174,Customer_174,user_174@provider.com,New York,2024-11-27,310.79,27,11,2024
+475,5445,Customer_445,user_445@provider.com,Los Angeles,2024-09-03,254.45,3,9,2024
+476,5189,Customer_189,user_189@provider.com,New York,2024-11-15,638.38,15,11,2024
+477,5151,Customer_151,user_151@provider.com,Chicago,2024-12-10,770.45,10,12,2024
+478,5463,Customer_463,user_463@provider.com,New York,2024-07-25,1115.98,25,7,2024
+479,5187,Customer_187,user_187@provider.com,Chicago,2024-04-17,160.33,17,4,2024
+480,5475,Customer_475,user_475@provider.com,Chicago,2024-05-18,649.16,18,5,2024
+482,5058,Customer_58,user_58@provider.com,Los Angeles,2024-08-01,556.68,1,8,2024
+483,5474,Customer_474,user_474@provider.com,Los Angeles,2024-10-23,695.35,23,10,2024
+484,5048,Customer_48,user_48@provider.com,New York,2024-03-20,1004.43,20,3,2024
+485,5344,Customer_344,user_344@provider.com,Los Angeles,2024-10-05,1127.65,5,10,2024
+486,5235,Customer_235,user_235@provider.com,New York,2024-02-08,1094.19,8,2,2024
+487,5252,Customer_252,user_252@provider.com,New York,2024-05-15,610.55,15,5,2024
+488,5021,Customer_21,user_21@provider.com,Chicago,2024-09-14,189.61,14,9,2024
+489,5313,Customer_313,user_313@provider.com,Los Angeles,2024-02-22,613.95,22,2,2024
+490,5459,Customer_459,user_459@provider.com,Chicago,2024-04-23,134.15,23,4,2024
+491,5160,Customer_160,user_160@provider.com,Los Angeles,2024-10-10,94.67,10,10,2024
+492,5276,Customer_276,user_276@provider.com,Chicago,2024-06-24,826.71,24,6,2024
+493,5443,Customer_443,user_443@provider.com,Chicago,2024-11-10,318.89,10,11,2024
+494,5191,Customer_191,user_191@provider.com,New York,2024-03-10,542.46,10,3,2024
+495,5385,Customer_385,user_385@provider.com,New York,2024-10-22,749.39,22,10,2024
+496,5293,Customer_293,user_293@provider.com,New York,2024-11-12,567.77,12,11,2024
+497,5413,Customer_413,user_413@provider.com,Los Angeles,2024-02-13,869.3,13,2,2024
+498,5491,Customer_491,user_491@provider.com,Chicago,2024-12-25,688.03,25,12,2024
+499,5343,Customer_343,user_343@provider.com,Chicago,2024-02-03,416.82,3,2,2024
+500,5257,Customer_257,user_257@provider.com,Chicago,2024-11-14,868.95,14,11,2024
+501,5308,Customer_308,user_308@provider.com,Los Angeles,2024-02-27,624.95,27,2,2024
+502,5149,Customer_149,user_149@provider.com,Los Angeles,2024-10-16,1138.27,16,10,2024
+503,5130,Customer_130,user_130@provider.com,Chicago,2024-03-02,876.59,2,3,2024
+504,5151,Customer_151,user_151@provider.com,Chicago,2024-12-10,770.45,10,12,2024
+505,5359,Customer_359,user_359@provider.com,Chicago,2024-06-05,1188.88,5,6,2024
+506,5099,Customer_99,user_99@provider.com,New York,2024-12-09,976.62,9,12,2024
+507,5372,Customer_372,user_372@provider.com,Chicago,2024-03-22,959.15,22,3,2024
+508,5087,Customer_87,user_87@provider.com,Los Angeles,2024-11-09,759.48,9,11,2024
+509,5458,Customer_458,user_458@provider.com,Chicago,2024-11-06,865.07,6,11,2024
+510,5330,Customer_330,user_330@provider.com,New York,2024-01-06,690.78,6,1,2024
+511,5214,Customer_214,user_214@provider.com,Chicago,2024-09-13,668.7,13,9,2024
+512,5466,Customer_466,user_466@provider.com,Los Angeles,2024-02-11,1055.9,11,2,2024
+513,5121,Customer_121,user_121@provider.com,Los Angeles,2024-04-10,638.38,10,4,2024
+514,5020,Customer_20,user_20@provider.com,New York,2024-10-27,1087.79,27,10,2024
+515,5071,Customer_71,user_71@provider.com,New York,2024-01-10,116.45,10,1,2024
+516,5106,Customer_106,user_106@provider.com,Chicago,2024-02-10,64.66,10,2,2024
+517,5270,Customer_270,user_270@provider.com,Chicago,2024-10-09,605.18,9,10,2024
+518,5435,Customer_435,user_435@provider.com,New York,2024-11-03,984.78,3,11,2024
+519,5102,Customer_102,user_102@provider.com,Chicago,2024-07-16,557.35,16,7,2024
